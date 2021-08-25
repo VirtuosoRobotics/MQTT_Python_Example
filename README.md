@@ -1,6 +1,6 @@
 # MQTT_Python_Example
 
-Install 
+Install \
 sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa\
 sudo apt-get update\
 sudo apt-get install mosquitto\
